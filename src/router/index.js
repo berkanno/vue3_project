@@ -23,6 +23,10 @@ const routes = [
     path:'/search',
     component: () => import('@/views/Search.vue'),
   },
+  {
+    path:'/searchagigrid',
+    component: () => import('@/views/SearchAgi-grid.vue')
+  }
 ]
 
 const router = createRouter({

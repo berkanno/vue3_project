@@ -9,7 +9,7 @@
 <v-card max-width="1220" class="mx-4" color="black" elevation="24">
     <div>
         
-        <div style="margin-left:140px">
+        <div style="margin-left:230px">
 
         <v-container>
     <v-card max-width="700" max-height="390">
